@@ -80,11 +80,6 @@ hash = "6ce97b65a78d66e0ae006105e63e2ccf8af6b3b266a2c5234f6ae7657b98220b"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
 metafile = true
@@ -172,11 +167,6 @@ metafile = true
 [[files]]
 file = "mods/paucal.pw.toml"
 hash = "03d4272f909720df400b6af4c90a93fc95e3a55c85935e7777724ba9f9bcb994"
-metafile = true
-
-[[files]]
-file = "mods/revelationary.pw.toml"
-hash = "9b0995d469116c38c30ea1b5141949652cb37671f4d671edcc9e22548fd2eb20"
 metafile = true
 
 [[files]]
