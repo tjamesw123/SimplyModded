@@ -1,16 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/Revelationary.json"
-hash = "320e0fc1914b7d05a550207449dfc99ce3d88cdddb376ba1828d2a10b5d1f9e0"
-
-[[files]]
 file = "config/cardinal-components-api.properties"
 hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
-
-[[files]]
-file = "config/continuity.json"
-hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
 file = "config/debugify-descriptions.json"
@@ -21,20 +13,76 @@ file = "config/debugify.json"
 hash = "e9ab1ba1b7ddaf5dbfd756eeb713e76f09a1db815934eb22ba1d62b17295f99c"
 
 [[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "37fe0e7ee17d46f8c638a81e117548d4c980bb97c3650ebd8fcdbd1aca4f9a73"
+
+[[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "647c97bf8ba08a082324b85ed87ae43356109953b4140fe57847cf7b97448ecd"
+
+[[files]]
+file = "config/hexal/client.json5"
+hash = "257c1be96ae69f4b01c2c69bdb6d78605f59175819fb007d0bf245bf48444c4a"
+
+[[files]]
+file = "config/hexal/common.json5"
+hash = "257c1be96ae69f4b01c2c69bdb6d78605f59175819fb007d0bf245bf48444c4a"
+
+[[files]]
+file = "config/hexal/server.json5"
+hash = "30fd9bc456ce2f64aa0f0618b9fe3856478109a8e4c3518156e4247b759fd312"
+
+[[files]]
+file = "config/hexcasting/client.json5"
+hash = "744c22b76d27156184f4f7769b2719ae0685daf4485ef4909c44bde0d9055ce1"
+
+[[files]]
+file = "config/hexcasting/common.json5"
+hash = "7bd1d0980a96e0151222fa60abcbb4db568382c4cc5a87e6c4280de6c3026a3f"
+
+[[files]]
+file = "config/hexcasting/server.json5"
+hash = "24856cb942c858d38bbeb55d1fcfe380f22e911aea38404f8ed24f7d3050a800"
 
 [[files]]
 file = "config/immediatelyfast.json"
 hash = "24e30e4bc37f445b1af5a52dc0c70830f2559abaa5b840721062ce6bb852b8ae"
 
 [[files]]
-file = "config/immersive_portals_fabric.json"
-hash = "a692dcbb12516b3dfe98862aca1212b29aeeee4b6b1344f6087644ea2adaea6b"
-
-[[files]]
 file = "config/indium-renderer.properties"
 hash = "fadf0e9990ec302f6b129e3ffac018f2497c621de9b1fa943c4abd53dce4a499"
+
+[[files]]
+file = "config/jei/blacklist.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jei/ingredient-list-mod-sort-order.ini"
+hash = "2e527f980249ef2472fe2bb233ee9618d0ad0e455ccb67c719181b4c235a1a90"
+
+[[files]]
+file = "config/jei/ingredient-list-type-sort-order.ini"
+hash = "5064fb08f3a4af3321de4746ac60fe83ac464732b684a38c68d97ad2c4bce440"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "c513c22b5acbf79ca29858ba472bba4a6f969df405c61b37b7ee6554358d88ea"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "c6328dcf3fb8b20a9f6ea6b61266ce289565c167353e183a105fb4915c36c072"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "24f1a0313b8ae9b6bf450d962640312613fd0f9e9a21a26756b85a6b5ee3d46d"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "f07420c28821341c7b85b7dc540b0ab4d83ba871e6e3025bb0731c94e5aca2d8"
 
 [[files]]
 file = "config/lithium.properties"
@@ -43,6 +91,18 @@ hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
 [[files]]
 file = "config/modmenu.json"
 hash = "c0146f2884d0a9b847937d855f1d65fa1db32389f71099a4db1a7c8faae80dc0"
+
+[[files]]
+file = "config/oneironaut/client.json5"
+hash = "257c1be96ae69f4b01c2c69bdb6d78605f59175819fb007d0bf245bf48444c4a"
+
+[[files]]
+file = "config/oneironaut/common.json5"
+hash = "257c1be96ae69f4b01c2c69bdb6d78605f59175819fb007d0bf245bf48444c4a"
+
+[[files]]
+file = "config/oneironaut/server.json5"
+hash = "fa7a491179767d08221ebe9d905cbb6edc2df8bbdc167c20b9fa3115571e4a00"
 
 [[files]]
 file = "config/patchouli.json5"
@@ -61,17 +121,13 @@ file = "config/sodium-options.json"
 hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
 
 [[files]]
-file = "config/zoomify.json"
-hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "84c0488c1a1aae759c20bfcc3a6ea2a5379c777c414b4c8815f1cf97b78aa11e"
 metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "7343aeffa92ca64b31a0d82db582b8f2bfd68757af0777410b8754c159f228a8"
+hash = "dd76f358cdb3d578ddcd7fc6c8fe2858fad91e4f5f650c5b885dc72d7175e111"
 metafile = true
 
 [[files]]

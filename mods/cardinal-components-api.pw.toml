@@ -1,6 +1,6 @@
 name = "Cardinal Components API"
 filename = "cardinal-components-api-5.0.2.jar"
-side = "server"
+side = "both"
 pin = true
 
 [download]
