@@ -231,6 +231,11 @@ hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "e459f168965ca78be829822f4093d36a0107209f4993c7743e33b2a6e8abb894"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
